@@ -1,0 +1,19 @@
+{
+  "name": "netology-http",
+  "version": "1.0.0",
+  "description": "http lesson",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "http"
+  ],
+  "author": "zagran@uplanet.biz",
+  "license": "ISC"
+}
